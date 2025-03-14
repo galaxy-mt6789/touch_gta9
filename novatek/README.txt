@@ -9,3 +9,9 @@
 # Insmod
 Insmod /vendor/lib/modules/touch_common.ko
 Insmod /vendor/lib/modules/novatek.ko
+
+# vendor_boot Modules
+/vendor_boot/lib/modules/lcd_default_mipi_fhd_video.ko
+/vendor_boot/lib/modules/lcd_nt36523d_lc_hsd_video.ko
+/vendor_boot/lib/modules/mtk_panel_ext.ko
+/vendor_boot/lib/modules/panel-bias.ko

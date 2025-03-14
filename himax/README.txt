@@ -21,6 +21,7 @@ insmod /vendor/lib/modules/touch_common.ko
 insmod /vendor/lib/modules/hxchipset.ko
 
 # vendor_boot Modules
+/vendor_boot/lib/modules/lcd_default_mipi_fhd_video.ko
 /vendor_boot/lib/modules/lcd_hx83102e_cd_inx_video.ko
 /vendor_boot/lib/modules/lcd_hx83102e_gx_hsd_incell_video.ko
 /vendor_boot/lib/modules/lcd_hx83102e_lc_hkc_video.ko
