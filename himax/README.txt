@@ -1,5 +1,5 @@
 # Modules
-/vendor/lib/modules/hxchipset.ko:
+/vendor/lib/modules/hxchipset.ko
 /vendor/lib/modules/touch_common.ko
 
 # Firmware
@@ -15,3 +15,7 @@
 /vendor/firmware/hx83102e_xx_inx_criteria.csv
 /vendor/firmware/hx83102e_xx_inx_firmware.bin
 /vendor/firmware/hx83102e_xx_inx_mpfw.bin
+
+# Insmod
+insmod /vendor/lib/modules/touch_common.ko
+insmod /vendor/lib/modules/hxchipset.ko
