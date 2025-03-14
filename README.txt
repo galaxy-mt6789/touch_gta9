@@ -42,7 +42,7 @@ lcd_hx83102e_xx_inx_video.ko
 mtk_panel_ext.ko
 panel-bias.ko
 
-# himax/vendor/firmware :
+# himax/vendor/firmware:
 hx83102e_cd_inx_criteria.csv
 hx83102e_cd_inx_firmware.bin
 hx83102e_cd_inx_mpfw.bin
@@ -72,7 +72,7 @@ lcd_jd9366tc_xx_hkc_video.ko
 mtk_panel_ext.ko
 panel-bias.ko
 
-# jd/vendor/firmware
+# jd/vendor/firmware:
 jd9366tc_xx_hkc_firmware.bin
 jd9366tc_xx_hkc_ito.txt
 
@@ -92,6 +92,6 @@ lcd_nt36523d_lc_hsd_video.ko
 mtk_panel_ext.ko
 panel-bias.ko
 
-# novatek/vendor/firmware
+# novatek/vendor/firmware:
 nt36523d_lc_hsd_firmware.bin
 nt36523d_lc_hsd_mpfw.bin 
