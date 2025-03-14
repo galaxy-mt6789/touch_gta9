@@ -19,3 +19,12 @@
 # Insmod
 insmod /vendor/lib/modules/touch_common.ko
 insmod /vendor/lib/modules/hxchipset.ko
+
+# vendor_boot Modules
+/vendor_boot/lib/modules/lcd_hx83102e_cd_inx_video.ko
+/vendor_boot/lib/modules/lcd_hx83102e_gx_hsd_incell_video.ko
+/vendor_boot/lib/modules/lcd_hx83102e_lc_hkc_video.ko
+/vendor_boot/lib/modules/lcd_hx83102e_xx_inx_video.ko
+/vendor_boot/lib/modules/mtk_panel_ext.ko
+/vendor_boot/lib/modules/panel-bias.ko
+
