@@ -24,7 +24,7 @@ nl9951_gx_boe.bin
 hxchipset.ko
 touch_common.ko
 
-himax/vendor_boot/lib/modules:
+# himax/vendor_boot/lib/modules:
 lcd_default_mipi_fhd_video.ko
 lcd_hx83102e_cd_inx_video.ko
 lcd_hx83102e_gx_hsd_incell_video.ko
